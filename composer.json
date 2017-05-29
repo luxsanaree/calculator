@@ -9,7 +9,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "luxsanaree\\calculator\\":"src/"
+            "luxsanaree\\Calculator\\":"src/"
         }
     }
 }

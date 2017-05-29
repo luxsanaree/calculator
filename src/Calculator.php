@@ -1,8 +1,8 @@
 <?php
 
-namespace luxsanaree\caalculator;
+namespace luxsanaree\Calculator;
 
-class calculator
+class Calculator
 {
     public function add($frist_number, $second_number)
     {
