@@ -1,0 +1,15 @@
+{
+    "name": "luxsanaree/calculator",
+    "authors": [
+        {
+            "name": "luxsanaree",
+            "email": "luxsanareem@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "luxsanaree\\calculator\\":"src/"
+        }
+    }
+}
